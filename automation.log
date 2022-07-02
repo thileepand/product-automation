@@ -1,0 +1,1808 @@
+17/06/2022 04:49:00 PM- LoginPage- INFO: Element found with locator: UserName and locatorType: id:
+17/06/2022 04:49:01 PM- LoginPage- INFO: Element found with locator: Password and locatorType: id:
+17/06/2022 04:49:01 PM- LoginPage- INFO: Element found with locator: UserName and locatorType: id:
+17/06/2022 04:49:01 PM- LoginPage- INFO: Send data on element with locator: UserName locatorType: id:
+17/06/2022 04:49:01 PM- LoginPage- INFO: Element found with locator: Password and locatorType: id:
+17/06/2022 04:49:01 PM- LoginPage- INFO: Send data on element with locator: Password locatorType: id:
+17/06/2022 04:49:01 PM- LoginPage- INFO: Element found with locator: Login and locatorType: id:
+17/06/2022 04:49:02 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+17/06/2022 04:49:02 PM- LoginPage- INFO: Element found with locator: //div[contains(text(), 'Invalid User Name Or Password.')] and locatorType: xpath:
+17/06/2022 04:49:02 PM- LoginPage- INFO: Element found with locator: //div[contains(text(), 'Invalid User Name Or Password.')] locatorType: xpath:
+17/06/2022 04:49:03 PM- LoginPage- INFO: Element found with locator: UserName and locatorType: id:
+17/06/2022 04:49:03 PM- LoginPage- INFO: Element found with locator: Password and locatorType: id:
+17/06/2022 04:49:03 PM- LoginPage- INFO: Element found with locator: UserName and locatorType: id:
+17/06/2022 04:49:03 PM- LoginPage- INFO: Send data on element with locator: UserName locatorType: id:
+17/06/2022 04:49:03 PM- LoginPage- INFO: Element found with locator: Password and locatorType: id:
+17/06/2022 04:49:03 PM- LoginPage- INFO: Send data on element with locator: Password locatorType: id:
+17/06/2022 04:49:03 PM- LoginPage- INFO: Element found with locator: Login and locatorType: id:
+17/06/2022 04:49:07 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+17/06/2022 04:49:07 PM- TestStatus- INFO: ### VERIFICATION FAILED :: + Title is verified:
+17/06/2022 04:50:55 PM- LoginPage- INFO: Element found with locator: UserName and locatorType: id:
+17/06/2022 04:50:55 PM- LoginPage- INFO: Element found with locator: Password and locatorType: id:
+17/06/2022 04:50:55 PM- LoginPage- INFO: Element found with locator: UserName and locatorType: id:
+17/06/2022 04:50:55 PM- LoginPage- INFO: Send data on element with locator: UserName locatorType: id:
+17/06/2022 04:50:55 PM- LoginPage- INFO: Element found with locator: Password and locatorType: id:
+17/06/2022 04:50:55 PM- LoginPage- INFO: Send data on element with locator: Password locatorType: id:
+17/06/2022 04:50:55 PM- LoginPage- INFO: Element found with locator: Login and locatorType: id:
+17/06/2022 04:50:56 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+17/06/2022 04:50:56 PM- LoginPage- INFO: Element found with locator: //div[contains(text(), 'Invalid User Name Or Password.')] and locatorType: xpath:
+17/06/2022 04:50:56 PM- LoginPage- INFO: Element found with locator: //div[contains(text(), 'Invalid User Name Or Password.')] locatorType: xpath:
+17/06/2022 04:50:57 PM- LoginPage- INFO: Element found with locator: UserName and locatorType: id:
+17/06/2022 04:50:57 PM- LoginPage- INFO: Element found with locator: Password and locatorType: id:
+17/06/2022 04:50:57 PM- LoginPage- INFO: Element found with locator: UserName and locatorType: id:
+17/06/2022 04:50:57 PM- LoginPage- INFO: Send data on element with locator: UserName locatorType: id:
+17/06/2022 04:50:57 PM- LoginPage- INFO: Element found with locator: Password and locatorType: id:
+17/06/2022 04:50:57 PM- LoginPage- INFO: Send data on element with locator: Password locatorType: id:
+17/06/2022 04:50:57 PM- LoginPage- INFO: Element found with locator: Login and locatorType: id:
+17/06/2022 04:51:00 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+17/06/2022 04:51:00 PM- TestStatus- INFO: ### VERIFICATION FAILED :: + Title is incorrect:
+17/06/2022 05:12:02 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+17/06/2022 05:12:02 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+17/06/2022 05:12:03 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+17/06/2022 05:12:03 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+17/06/2022 05:12:03 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+17/06/2022 05:12:03 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+17/06/2022 05:12:03 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+17/06/2022 05:12:04 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+17/06/2022 05:12:04 PM- LoginPage- INFO: Element found with locator: //div[contains(text(), 'Invalid User Name Or Password.')] and  locatorType: xpath:
+17/06/2022 05:12:04 PM- LoginPage- INFO: Element present with locator: //div[contains(text(), 'Invalid User Name Or Password.')] locatorType: xpath:
+17/06/2022 05:12:05 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+17/06/2022 05:12:05 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+17/06/2022 05:12:05 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+17/06/2022 05:12:05 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+17/06/2022 05:12:05 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+17/06/2022 05:12:05 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+17/06/2022 05:12:05 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+17/06/2022 05:12:12 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+17/06/2022 05:12:12 PM- TestStatus- INFO: ### VERIFICATION FAILED :: + Title is incorrect:
+17/06/2022 05:12:12 PM- TestStatus- INFO: Screenshot save to directory: /home/thileepan/Documents/workspace_python/Product2/base/../screenshots/Title is incorrect.1655466132633.png:
+17/06/2022 05:14:03 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+17/06/2022 05:14:03 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+17/06/2022 05:14:03 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+17/06/2022 05:14:04 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+17/06/2022 05:14:04 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+17/06/2022 05:14:04 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+17/06/2022 05:14:04 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+17/06/2022 05:14:05 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+17/06/2022 05:14:05 PM- LoginPage- INFO: Element found with locator: //div[contains(text(), 'Invalid User Name Or Password.')] and  locatorType: xpath:
+17/06/2022 05:14:05 PM- LoginPage- INFO: Element present with locator: //div[contains(text(), 'Invalid User Name Or Password.')] locatorType: xpath:
+17/06/2022 05:14:05 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+17/06/2022 05:14:05 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+17/06/2022 05:14:06 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+17/06/2022 05:14:06 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+17/06/2022 05:14:06 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+17/06/2022 05:14:06 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+17/06/2022 05:14:06 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+17/06/2022 05:14:09 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+17/06/2022 05:14:09 PM- TestStatus- INFO: ### VERIFICATION FAILED :: + Title is incorrect:
+17/06/2022 05:14:09 PM- TestStatus- INFO: Screenshot save to directory: /home/thileepan/Documents/workspace_python/Product2/base/../screenshots/Title is incorrect.1655466249447.png:
+17/06/2022 05:37:06 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+17/06/2022 05:37:06 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+17/06/2022 05:37:06 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+17/06/2022 05:37:07 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+17/06/2022 05:37:07 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+17/06/2022 05:37:07 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+17/06/2022 05:37:07 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+17/06/2022 05:37:08 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+17/06/2022 05:37:08 PM- LoginPage- INFO: Element found with locator: //div[contains(text(), 'Invalid User Name Or Password.')] and  locatorType: xpath:
+17/06/2022 05:37:08 PM- LoginPage- INFO: Element present with locator: //div[contains(text(), 'Invalid User Name Or Password.')] locatorType: xpath:
+17/06/2022 05:37:08 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+17/06/2022 05:37:08 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+17/06/2022 05:37:09 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+17/06/2022 05:37:09 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+17/06/2022 05:37:09 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+17/06/2022 05:37:09 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+17/06/2022 05:37:09 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+17/06/2022 05:37:17 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+17/06/2022 05:37:17 PM- Util- INFO: Actual Text From Application Web UI --> :: IvyDMS:
+17/06/2022 05:37:17 PM- Util- INFO: Expected Text From Application Web UI --> :: IvyDMS1:
+17/06/2022 05:37:17 PM- Util- INFO: ### VERIFICATION DOES NOT CONTAINS !!!:
+17/06/2022 05:37:17 PM- TestStatus- INFO: ### VERIFICATION FAILED :: + Title is incorrect:
+17/06/2022 05:37:17 PM- TestStatus- INFO: Screenshot save to directory: /home/thileepan/Documents/workspace_python/Product2/base/../screenshots/Title is incorrect.1655467637642.png:
+17/06/2022 05:38:33 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+17/06/2022 05:38:33 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+17/06/2022 05:38:33 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+17/06/2022 05:38:33 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+17/06/2022 05:38:33 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+17/06/2022 05:38:33 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+17/06/2022 05:38:33 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+17/06/2022 05:38:35 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+17/06/2022 05:38:35 PM- LoginPage- INFO: Element found with locator: //div[contains(text(), 'Invalid User Name Or Password.')] and  locatorType: xpath:
+17/06/2022 05:38:35 PM- LoginPage- INFO: Element present with locator: //div[contains(text(), 'Invalid User Name Or Password.')] locatorType: xpath:
+17/06/2022 05:38:35 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+17/06/2022 05:38:35 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+17/06/2022 05:38:35 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+17/06/2022 05:38:35 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+17/06/2022 05:38:35 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+17/06/2022 05:38:35 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+17/06/2022 05:38:35 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+17/06/2022 05:38:38 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+17/06/2022 05:38:39 PM- Util- INFO: Actual Text From Application Web UI --> :: IvyDMS:
+17/06/2022 05:38:39 PM- Util- INFO: Expected Text From Application Web UI --> :: IvyDMS:
+17/06/2022 05:38:39 PM- Util- INFO: ### VERIFICATION CONTAINS !!!:
+17/06/2022 05:38:39 PM- TestStatus- INFO: ### VERIFICATION SUCCESSFUL :: + Title is incorrect:
+17/06/2022 05:38:39 PM- LoginPage- INFO: Element found with locator: //h2[contains(text(),'Welcome To Cloud DMS')] and  locatorType: xpath:
+17/06/2022 05:38:39 PM- LoginPage- INFO: Element present with locator: //h2[contains(text(),'Welcome To Cloud DMS')] locatorType: xpath:
+17/06/2022 05:38:39 PM- TestStatus- INFO: ### VERIFICATION SUCCESSFUL :: + login was  successful:
+17/06/2022 05:38:39 PM- TestStatus- INFO: test_validation##TEST SUCCESSFUL:
+18/06/2022 02:14:46 PM- LoginPage- INFO: Element not found with locator: UserName and  locatorType: id:
+18/06/2022 02:17:20 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+18/06/2022 02:17:20 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+18/06/2022 02:17:20 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+18/06/2022 02:17:20 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+18/06/2022 02:17:20 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+18/06/2022 02:17:20 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+18/06/2022 02:17:20 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+18/06/2022 02:17:22 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+18/06/2022 02:17:22 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+18/06/2022 02:17:22 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+18/06/2022 02:17:22 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+18/06/2022 02:17:22 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+18/06/2022 02:17:22 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+18/06/2022 02:17:23 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+18/06/2022 02:17:23 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+18/06/2022 02:17:24 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+18/06/2022 02:17:24 PM- LoginPage- INFO: Element found with locator: //div[contains(text(), 'Invalid User Name Or Password.')] and  locatorType: xpath:
+18/06/2022 02:17:24 PM- LoginPage- INFO: Element present with locator: //div[contains(text(), 'Invalid User Name Or Password.')] locatorType: xpath:
+18/06/2022 02:17:24 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+18/06/2022 02:17:24 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+18/06/2022 02:17:25 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+18/06/2022 02:17:25 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+18/06/2022 02:17:25 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+18/06/2022 02:17:25 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+18/06/2022 02:17:25 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+18/06/2022 02:17:30 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+18/06/2022 02:17:30 PM- Util- INFO: Actual Text From Application Web UI --> :: IvyDMS:
+18/06/2022 02:17:30 PM- Util- INFO: Expected Text From Application Web UI --> :: IvyDMS:
+18/06/2022 02:17:30 PM- Util- INFO: ### VERIFICATION CONTAINS !!!:
+18/06/2022 02:17:30 PM- TestStatus- INFO: ### VERIFICATION SUCCESSFUL :: + Title is incorrect:
+18/06/2022 02:17:30 PM- LoginPage- INFO: Element found with locator: //h2[contains(text(),'Welcome To Cloud DMS')] and  locatorType: xpath:
+18/06/2022 02:17:30 PM- LoginPage- INFO: Element present with locator: //h2[contains(text(),'Welcome To Cloud DMS')] locatorType: xpath:
+18/06/2022 02:17:30 PM- TestStatus- INFO: ### VERIFICATION SUCCESSFUL :: + login was  successful:
+18/06/2022 02:17:30 PM- TestStatus- INFO: test_validation##TEST SUCCESSFUL:
+18/06/2022 02:51:54 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+18/06/2022 02:51:54 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+18/06/2022 02:51:54 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+18/06/2022 02:51:55 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+18/06/2022 02:51:55 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+18/06/2022 02:51:55 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+18/06/2022 02:51:55 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+18/06/2022 02:51:56 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+18/06/2022 02:51:56 PM- SalesInvoice- INFO: Element found with locator: UserName and  locatorType: id:
+18/06/2022 02:51:56 PM- SalesInvoice- INFO: Sent data on element with locator: UserName locatorType: id:
+18/06/2022 02:51:56 PM- SalesInvoice- INFO: Element found with locator: Password and  locatorType: id:
+18/06/2022 02:51:57 PM- SalesInvoice- INFO: Sent data on element with locator: Password locatorType: id:
+18/06/2022 02:51:57 PM- SalesInvoice- INFO: Element found with locator: Login and  locatorType: id:
+18/06/2022 02:51:58 PM- SalesInvoice- INFO: Clicked on element with locator: Login locatorType: id:
+18/06/2022 02:56:07 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+18/06/2022 02:56:07 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+18/06/2022 02:56:07 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+18/06/2022 02:56:07 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+18/06/2022 02:56:07 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+18/06/2022 02:56:07 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+18/06/2022 02:56:07 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+18/06/2022 02:56:09 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+18/06/2022 02:56:09 PM- SalesInvoice- INFO: Element found with locator: UserName and  locatorType: id:
+18/06/2022 02:56:09 PM- SalesInvoice- INFO: Sent data on element with locator: UserName locatorType: id:
+18/06/2022 02:56:09 PM- SalesInvoice- INFO: Element found with locator: Password and  locatorType: id:
+18/06/2022 02:56:09 PM- SalesInvoice- INFO: Sent data on element with locator: Password locatorType: id:
+18/06/2022 02:56:09 PM- SalesInvoice- INFO: Element found with locator: Login and  locatorType: id:
+18/06/2022 02:56:10 PM- SalesInvoice- INFO: Clicked on element with locator: Login locatorType: id:
+18/06/2022 02:57:44 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+18/06/2022 02:57:44 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+18/06/2022 02:57:44 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+18/06/2022 02:57:44 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+18/06/2022 02:57:44 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+18/06/2022 02:57:44 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+18/06/2022 02:57:44 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+18/06/2022 02:57:46 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+18/06/2022 02:57:46 PM- SalesInvoice- INFO: Element found with locator: UserName and  locatorType: id:
+18/06/2022 02:57:46 PM- SalesInvoice- INFO: Element found with locator: Password and  locatorType: id:
+18/06/2022 02:57:46 PM- SalesInvoice- INFO: Element found with locator: UserName and  locatorType: id:
+18/06/2022 02:57:46 PM- SalesInvoice- INFO: Sent data on element with locator: UserName locatorType: id:
+18/06/2022 02:57:46 PM- SalesInvoice- INFO: Element found with locator: Password and  locatorType: id:
+18/06/2022 02:57:46 PM- SalesInvoice- INFO: Sent data on element with locator: Password locatorType: id:
+18/06/2022 02:57:46 PM- SalesInvoice- INFO: Element found with locator: Login and  locatorType: id:
+18/06/2022 02:57:51 PM- SalesInvoice- INFO: Clicked on element with locator: Login locatorType: id:
+18/06/2022 02:59:27 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+18/06/2022 02:59:27 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+18/06/2022 02:59:27 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+18/06/2022 02:59:27 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+18/06/2022 02:59:27 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+18/06/2022 02:59:27 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+18/06/2022 02:59:27 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+18/06/2022 02:59:31 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+18/06/2022 02:59:34 PM- SalesInvoice- INFO: Element not found with locator: UserName and  locatorType: id:
+18/06/2022 03:02:47 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+18/06/2022 03:02:47 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+18/06/2022 03:02:47 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+18/06/2022 03:02:47 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+18/06/2022 03:02:47 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+18/06/2022 03:02:48 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+18/06/2022 03:02:48 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+18/06/2022 03:02:52 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+18/06/2022 03:02:56 PM- SalesInvoice- INFO: Element not found with locator: UserName and  locatorType: id:
+18/06/2022 03:03:41 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+18/06/2022 03:03:41 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+18/06/2022 03:03:41 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+18/06/2022 03:03:41 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+18/06/2022 03:03:41 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+18/06/2022 03:03:41 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+18/06/2022 03:03:41 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+18/06/2022 03:03:46 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+18/06/2022 03:03:49 PM- SalesInvoice- INFO: Element not found with locator: UserName and  locatorType: id:
+18/06/2022 03:03:49 PM- SalesInvoice- INFO: Cannot send data on the element with locator: UserName locatorType: id:
+18/06/2022 03:03:52 PM- SalesInvoice- INFO: Element not found with locator: Password and  locatorType: id:
+18/06/2022 03:03:52 PM- SalesInvoice- INFO: Cannot send data on the element with locator: Password locatorType: id:
+18/06/2022 03:03:55 PM- SalesInvoice- INFO: Element not found with locator: Login and  locatorType: id:
+18/06/2022 03:03:55 PM- SalesInvoice- INFO: Cannot click on the element with locator: Login locatorType: id:
+18/06/2022 03:06:50 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+18/06/2022 03:06:50 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+18/06/2022 03:06:50 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+18/06/2022 03:06:51 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+18/06/2022 03:06:51 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+18/06/2022 03:06:51 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+18/06/2022 03:06:51 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+18/06/2022 03:07:00 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+18/06/2022 03:07:03 PM- SalesInvoice- INFO: Element not found with locator: UserName and  locatorType: id:
+18/06/2022 03:07:03 PM- SalesInvoice- INFO: Cannot send data on the element with locator: UserName locatorType: id:
+18/06/2022 03:07:06 PM- SalesInvoice- INFO: Element not found with locator: Password and  locatorType: id:
+18/06/2022 03:07:06 PM- SalesInvoice- INFO: Cannot send data on the element with locator: Password locatorType: id:
+18/06/2022 03:07:09 PM- SalesInvoice- INFO: Element not found with locator: Login and  locatorType: id:
+18/06/2022 03:07:09 PM- SalesInvoice- INFO: Cannot click on the element with locator: Login locatorType: id:
+18/06/2022 03:08:14 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+18/06/2022 03:08:14 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+18/06/2022 03:08:14 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+18/06/2022 03:08:14 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+18/06/2022 03:08:14 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+18/06/2022 03:08:14 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+18/06/2022 03:08:14 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+18/06/2022 03:08:19 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+18/06/2022 03:08:22 PM- SalesInvoice- INFO: Element not found with locator: UserName and  locatorType: id:
+18/06/2022 03:08:22 PM- SalesInvoice- INFO: Cannot send data on the element with locator: UserName locatorType: id:
+18/06/2022 03:08:25 PM- SalesInvoice- INFO: Element not found with locator: Password and  locatorType: id:
+18/06/2022 03:08:25 PM- SalesInvoice- INFO: Cannot send data on the element with locator: Password locatorType: id:
+18/06/2022 03:08:28 PM- SalesInvoice- INFO: Element not found with locator: Login and  locatorType: id:
+18/06/2022 03:08:28 PM- SalesInvoice- INFO: Cannot click on the element with locator: Login locatorType: id:
+18/06/2022 03:14:26 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+18/06/2022 03:14:26 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+18/06/2022 03:14:26 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+18/06/2022 03:14:26 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+18/06/2022 03:14:26 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+18/06/2022 03:14:26 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+18/06/2022 03:14:26 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+18/06/2022 03:14:30 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+18/06/2022 03:14:34 PM- SalesInvoice- INFO: Element not found with locator: UserName and  locatorType: id:
+18/06/2022 03:14:34 PM- SalesInvoice- INFO: Cannot send data on the element with locator: UserName locatorType: id:
+18/06/2022 03:14:37 PM- SalesInvoice- INFO: Element not found with locator: Password and  locatorType: id:
+18/06/2022 03:14:37 PM- SalesInvoice- INFO: Cannot send data on the element with locator: Password locatorType: id:
+18/06/2022 03:14:40 PM- SalesInvoice- INFO: Element not found with locator: Login and  locatorType: id:
+18/06/2022 03:14:40 PM- SalesInvoice- INFO: Cannot click on the element with locator: Login locatorType: id:
+18/06/2022 03:16:57 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+18/06/2022 03:16:57 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+18/06/2022 03:16:57 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+18/06/2022 03:16:57 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+18/06/2022 03:16:57 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+18/06/2022 03:16:57 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+18/06/2022 03:16:57 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+18/06/2022 03:17:02 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+18/06/2022 03:17:05 PM- SalesInvoice- INFO: Element not found with locator: UserName and  locatorType: id:
+18/06/2022 03:17:05 PM- SalesInvoice- INFO: Cannot send data on the element with locator: UserName locatorType: id:
+18/06/2022 03:17:08 PM- SalesInvoice- INFO: Element not found with locator: Password and  locatorType: id:
+18/06/2022 03:17:08 PM- SalesInvoice- INFO: Cannot send data on the element with locator: Password locatorType: id:
+18/06/2022 03:17:11 PM- SalesInvoice- INFO: Element not found with locator: Login and  locatorType: id:
+18/06/2022 03:17:11 PM- SalesInvoice- INFO: Cannot click on the element with locator: Login locatorType: id:
+19/06/2022 03:23:21 PM- LoginPage- INFO: Element not found with locator: UserName and locatorType: id:
+19/06/2022 03:23:21 PM- LoginPage- ERROR: Exception Caught: Traceback (most recent call last):
+  File "/home/thileepan/Documents/workspace_python/Product2/base/selenium_driver.py", line 67, in getElement
+    element = self.driver.find_element(byType, locator)
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: Browsing context has been discarded
+
+:
+19/06/2022 03:23:21 PM- LoginPage- ERROR:   File "/home/thileepan/api/bin/py.test", line 10, in <module>
+    sys.exit(main())
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/config/__init__.py", line 74, in main
+    return config.hook.pytest_cmdline_main(config=config)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 250, in pytest_cmdline_main
+    return wrap_session(config, _main)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 213, in wrap_session
+    session.exitstatus = doit(config, session) or 0
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 257, in _main
+    config.hook.pytest_runtestloop(session=session)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 278, in pytest_runtestloop
+    item.config.hook.pytest_runtest_protocol(item=item, nextitem=nextitem)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 72, in pytest_runtest_protocol
+    runtestprotocol(item, nextitem=nextitem)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 81, in runtestprotocol
+    rep = call_and_report(item, "setup", log)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 167, in call_and_report
+    call = call_runtest_hook(item, when, **kwds)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 192, in call_runtest_hook
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 220, in from_call
+    result = func()
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 192, in <lambda>
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 110, in pytest_runtest_setup
+    item.session._setupstate.prepare(item)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 359, in prepare
+    col.setup()
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/unittest.py", line 113, in setup
+    self._request._fillfixtures()
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/fixtures.py", line 461, in _fillfixtures
+    item.funcargs[argname] = self.getfixturevalue(argname)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/fixtures.py", line 471, in getfixturevalue
+    return self._get_active_fixturedef(argname).cached_result[0]
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/fixtures.py", line 494, in _get_active_fixturedef
+    self._compute_fixture_value(fixturedef)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/fixtures.py", line 575, in _compute_fixture_value
+    fixturedef.execute(request=subrequest)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/fixtures.py", line 883, in execute
+    return hook.pytest_fixture_setup(fixturedef=self, request=request)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/fixtures.py", line 923, in pytest_fixture_setup
+    result = call_fixture_func(fixturefunc, request, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/fixtures.py", line 779, in call_fixture_func
+    res = next(it)
+  File "/home/thileepan/Documents/workspace_python/Product2/tests/conftest.py", line 18, in oneTimeSetUp
+    lp.login("dhivbranch", "1")
+  File "/home/thileepan/Documents/workspace_python/Product2/pages/home/login_page.py", line 31, in login
+    self.clearFields()
+  File "/home/thileepan/Documents/workspace_python/Product2/pages/home/login_page.py", line 45, in clearFields
+    userField = self.getElement(locator=self._username)
+  File "/home/thileepan/Documents/workspace_python/Product2/base/selenium_driver.py", line 74, in getElement
+    self.log.error("".join(traceback.format_stack()))
+:
+19/06/2022 03:24:09 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 03:24:09 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 03:24:09 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 03:24:09 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+19/06/2022 03:24:09 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 03:24:09 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+19/06/2022 03:24:09 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+19/06/2022 03:24:16 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+19/06/2022 03:24:19 PM- LoginPage- INFO: Element not found with locator: UserName and locatorType: id:
+19/06/2022 03:24:19 PM- LoginPage- ERROR: Exception Caught: Traceback (most recent call last):
+  File "/home/thileepan/Documents/workspace_python/Product2/base/selenium_driver.py", line 67, in getElement
+    element = self.driver.find_element(byType, locator)
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: [id="UserName"]
+
+:
+19/06/2022 03:24:19 PM- LoginPage- ERROR:   File "/home/thileepan/api/bin/py.test", line 10, in <module>
+    sys.exit(main())
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/config/__init__.py", line 74, in main
+    return config.hook.pytest_cmdline_main(config=config)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 250, in pytest_cmdline_main
+    return wrap_session(config, _main)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 213, in wrap_session
+    session.exitstatus = doit(config, session) or 0
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 257, in _main
+    config.hook.pytest_runtestloop(session=session)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 278, in pytest_runtestloop
+    item.config.hook.pytest_runtest_protocol(item=item, nextitem=nextitem)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 72, in pytest_runtest_protocol
+    runtestprotocol(item, nextitem=nextitem)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 87, in runtestprotocol
+    reports.append(call_and_report(item, "call", log))
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 167, in call_and_report
+    call = call_runtest_hook(item, when, **kwds)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 192, in call_runtest_hook
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 220, in from_call
+    result = func()
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 192, in <lambda>
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 117, in pytest_runtest_call
+    item.runtest()
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/unittest.py", line 200, in runtest
+    self._testcase(result=self)
+  File "/usr/local/lib/python3.5/unittest/case.py", line 648, in __call__
+    return self.run(*args, **kwds)
+  File "/usr/local/lib/python3.5/unittest/case.py", line 600, in run
+    testMethod()
+  File "/home/thileepan/api/lib/python3.5/site-packages/ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/thileepan/Documents/workspace_python/Product2/tests/home/login_test_multiple_data.py", line 34, in test_invalidLogin
+    self.lp.login(Username, Passowrd)
+  File "/home/thileepan/Documents/workspace_python/Product2/pages/home/login_page.py", line 31, in login
+    self.clearFields()
+  File "/home/thileepan/Documents/workspace_python/Product2/pages/home/login_page.py", line 45, in clearFields
+    userField = self.getElement(locator=self._username)
+  File "/home/thileepan/Documents/workspace_python/Product2/base/selenium_driver.py", line 74, in getElement
+    self.log.error("".join(traceback.format_stack()))
+:
+19/06/2022 03:24:23 PM- LoginPage- INFO: Element not found with locator: UserName and locatorType: id:
+19/06/2022 03:24:23 PM- LoginPage- ERROR: Exception Caught: Traceback (most recent call last):
+  File "/home/thileepan/Documents/workspace_python/Product2/base/selenium_driver.py", line 67, in getElement
+    element = self.driver.find_element(byType, locator)
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: [id="UserName"]
+
+:
+19/06/2022 03:24:23 PM- LoginPage- ERROR:   File "/home/thileepan/api/bin/py.test", line 10, in <module>
+    sys.exit(main())
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/config/__init__.py", line 74, in main
+    return config.hook.pytest_cmdline_main(config=config)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 250, in pytest_cmdline_main
+    return wrap_session(config, _main)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 213, in wrap_session
+    session.exitstatus = doit(config, session) or 0
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 257, in _main
+    config.hook.pytest_runtestloop(session=session)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 278, in pytest_runtestloop
+    item.config.hook.pytest_runtest_protocol(item=item, nextitem=nextitem)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 72, in pytest_runtest_protocol
+    runtestprotocol(item, nextitem=nextitem)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 87, in runtestprotocol
+    reports.append(call_and_report(item, "call", log))
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 167, in call_and_report
+    call = call_runtest_hook(item, when, **kwds)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 192, in call_runtest_hook
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 220, in from_call
+    result = func()
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 192, in <lambda>
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 117, in pytest_runtest_call
+    item.runtest()
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/unittest.py", line 200, in runtest
+    self._testcase(result=self)
+  File "/usr/local/lib/python3.5/unittest/case.py", line 648, in __call__
+    return self.run(*args, **kwds)
+  File "/usr/local/lib/python3.5/unittest/case.py", line 600, in run
+    testMethod()
+  File "/home/thileepan/Documents/workspace_python/Product2/tests/home/login_test_multiple_data.py", line 20, in test_validLogin
+    self.lp.login("ivyadmin", "SupPass")
+  File "/home/thileepan/Documents/workspace_python/Product2/pages/home/login_page.py", line 31, in login
+    self.clearFields()
+  File "/home/thileepan/Documents/workspace_python/Product2/pages/home/login_page.py", line 45, in clearFields
+    userField = self.getElement(locator=self._username)
+  File "/home/thileepan/Documents/workspace_python/Product2/base/selenium_driver.py", line 74, in getElement
+    self.log.error("".join(traceback.format_stack()))
+:
+19/06/2022 03:26:05 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 03:26:05 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 03:26:05 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 03:26:05 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+19/06/2022 03:26:05 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 03:26:05 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+19/06/2022 03:26:05 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+19/06/2022 03:26:08 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+19/06/2022 03:26:08 PM- LoginPage- INFO: Element list FOUND with locator: //div[contains(text(), 'Invalid User Name Or Password.')] and locatorType: xpath:
+19/06/2022 03:26:08 PM- LoginPage- INFO: Element present with locator: //div[contains(text(), 'Invalid User Name Or Password.')] locatorType: xpath:
+19/06/2022 03:26:08 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 03:26:08 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 03:26:08 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 03:26:08 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+19/06/2022 03:26:08 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 03:26:08 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+19/06/2022 03:26:08 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+19/06/2022 03:26:15 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+19/06/2022 03:26:16 PM- Util- INFO: Actual Text From Application Web UI --> :: IvyDMS:
+19/06/2022 03:26:16 PM- Util- INFO: Expected Text From Application Web UI --> :: IvyDMS:
+19/06/2022 03:26:16 PM- Util- INFO: ### VERIFICATION CONTAINS !!!:
+19/06/2022 03:26:16 PM- TestStatus- INFO: ### VERIFICATION SUCCESSFUL :: + Title is incorrect:
+19/06/2022 03:26:16 PM- LoginPage- INFO: Element list FOUND with locator: //h2[contains(text(),'Welcome To Cloud DMS')] and locatorType: xpath:
+19/06/2022 03:26:16 PM- LoginPage- INFO: Element present with locator: //h2[contains(text(),'Welcome To Cloud DMS')] locatorType: xpath:
+19/06/2022 03:26:16 PM- TestStatus- INFO: ### VERIFICATION SUCCESSFUL :: + login was  successful:
+19/06/2022 03:26:16 PM- TestStatus- INFO: test_validation ### TEST SUCCESSFUL:
+19/06/2022 03:33:25 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 03:33:25 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 03:33:25 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 03:33:26 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+19/06/2022 03:33:26 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 03:33:26 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+19/06/2022 03:33:26 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+19/06/2022 03:33:28 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+19/06/2022 03:33:28 PM- LoginPage- INFO: Element list FOUND with locator: //div[contains(text(), 'Invalid User Name Or Password.')] and locatorType: xpath:
+19/06/2022 03:33:28 PM- LoginPage- INFO: Element present with locator: //div[contains(text(), 'Invalid User Name Or Password.')] locatorType: xpath:
+19/06/2022 03:33:28 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 03:33:28 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 03:33:28 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 03:33:28 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+19/06/2022 03:33:28 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 03:33:29 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+19/06/2022 03:33:29 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+19/06/2022 03:33:31 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+19/06/2022 03:33:31 PM- LoginPage- INFO: Element list FOUND with locator: //div[contains(text(), 'Invalid User Name Or Password.')] and locatorType: xpath:
+19/06/2022 03:33:31 PM- LoginPage- INFO: Element present with locator: //div[contains(text(), 'Invalid User Name Or Password.')] locatorType: xpath:
+19/06/2022 03:33:31 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 03:33:31 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 03:33:31 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 03:33:31 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+19/06/2022 03:33:31 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 03:33:31 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+19/06/2022 03:33:31 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+19/06/2022 03:33:48 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+19/06/2022 03:33:48 PM- Util- INFO: Actual Text From Application Web UI --> :: IvyDMS:
+19/06/2022 03:33:48 PM- Util- INFO: Expected Text From Application Web UI --> :: IvyDMS:
+19/06/2022 03:33:48 PM- Util- INFO: ### VERIFICATION CONTAINS !!!:
+19/06/2022 03:33:48 PM- TestStatus- INFO: ### VERIFICATION SUCCESSFUL :: + Title is incorrect:
+19/06/2022 03:33:48 PM- LoginPage- INFO: Element list FOUND with locator: //h2[contains(text(),'Welcome To Cloud DMS')] and locatorType: xpath:
+19/06/2022 03:33:48 PM- LoginPage- INFO: Element present with locator: //h2[contains(text(),'Welcome To Cloud DMS')] locatorType: xpath:
+19/06/2022 03:33:48 PM- TestStatus- INFO: ### VERIFICATION SUCCESSFUL :: + login was  successful:
+19/06/2022 03:33:48 PM- TestStatus- INFO: test_validation ### TEST SUCCESSFUL:
+19/06/2022 04:02:46 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 04:02:47 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 04:02:47 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 04:02:47 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+19/06/2022 04:02:47 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 04:02:47 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+19/06/2022 04:02:47 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+19/06/2022 04:02:49 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+19/06/2022 04:02:49 PM- LoginPage- INFO: Element list FOUND with locator: //div[contains(text(), 'Invalid User Name Or Password.')] and locatorType: xpath:
+19/06/2022 04:02:49 PM- LoginPage- INFO: Element present with locator: //div[contains(text(), 'Invalid User Name Or Password.')] locatorType: xpath:
+19/06/2022 04:02:49 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 04:02:49 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 04:02:49 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 04:02:49 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+19/06/2022 04:02:49 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 04:02:49 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+19/06/2022 04:02:49 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+19/06/2022 04:02:51 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+19/06/2022 04:02:52 PM- LoginPage- INFO: Element list FOUND with locator: //div[contains(text(), 'Invalid User Name Or Password.')] and locatorType: xpath:
+19/06/2022 04:02:52 PM- LoginPage- INFO: Element present with locator: //div[contains(text(), 'Invalid User Name Or Password.')] locatorType: xpath:
+19/06/2022 04:02:52 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 04:02:52 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 04:02:52 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 04:02:52 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+19/06/2022 04:02:52 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 04:02:52 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+19/06/2022 04:02:52 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+19/06/2022 04:02:58 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+19/06/2022 04:02:59 PM- Util- INFO: Actual Text From Application Web UI --> :: IvyDMS:
+19/06/2022 04:02:59 PM- Util- INFO: Expected Text From Application Web UI --> :: IvyDMS:
+19/06/2022 04:02:59 PM- Util- INFO: ### VERIFICATION CONTAINS !!!:
+19/06/2022 04:02:59 PM- TestStatus- INFO: ### VERIFICATION SUCCESSFUL :: + Title is incorrect:
+19/06/2022 04:02:59 PM- LoginPage- INFO: Element list FOUND with locator: //h2[contains(text(),'Welcome To Cloud DMS')] and locatorType: xpath:
+19/06/2022 04:02:59 PM- LoginPage- INFO: Element present with locator: //h2[contains(text(),'Welcome To Cloud DMS')] locatorType: xpath:
+19/06/2022 04:02:59 PM- TestStatus- INFO: ### VERIFICATION SUCCESSFUL :: + login was  successful:
+19/06/2022 04:02:59 PM- TestStatus- INFO: test_validation ### TEST SUCCESSFUL:
+19/06/2022 04:03:54 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 04:03:54 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 04:03:54 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 04:03:54 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+19/06/2022 04:03:54 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 04:03:54 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+19/06/2022 04:03:54 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+19/06/2022 04:03:56 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+19/06/2022 04:03:56 PM- LoginPage- INFO: Element list FOUND with locator: //div[contains(text(), 'Invalid User Name Or Password.')] and locatorType: xpath:
+19/06/2022 04:03:56 PM- LoginPage- INFO: Element present with locator: //div[contains(text(), 'Invalid User Name Or Password.')] locatorType: xpath:
+19/06/2022 04:03:56 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 04:03:56 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 04:03:57 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 04:03:57 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+19/06/2022 04:03:57 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 04:03:57 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+19/06/2022 04:03:57 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+19/06/2022 04:03:58 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+19/06/2022 04:03:59 PM- LoginPage- INFO: Element list FOUND with locator: //div[contains(text(), 'Invalid User Name Or Password.')] and locatorType: xpath:
+19/06/2022 04:03:59 PM- LoginPage- INFO: Element present with locator: //div[contains(text(), 'Invalid User Name Or Password.')] locatorType: xpath:
+19/06/2022 04:03:59 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 04:03:59 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 04:03:59 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 04:03:59 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+19/06/2022 04:03:59 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 04:03:59 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+19/06/2022 04:03:59 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+19/06/2022 04:04:04 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+19/06/2022 04:04:04 PM- Util- INFO: Actual Text From Application Web UI --> :: IvyDMS:
+19/06/2022 04:04:04 PM- Util- INFO: Expected Text From Application Web UI --> :: IvyDMS:
+19/06/2022 04:04:04 PM- Util- INFO: ### VERIFICATION CONTAINS !!!:
+19/06/2022 04:04:04 PM- TestStatus- INFO: ### VERIFICATION SUCCESSFUL :: + Title is incorrect:
+19/06/2022 04:04:05 PM- LoginPage- INFO: Element list FOUND with locator: //h2[contains(text(),'Welcome To Cloud DMS')] and locatorType: xpath:
+19/06/2022 04:04:05 PM- LoginPage- INFO: Element present with locator: //h2[contains(text(),'Welcome To Cloud DMS')] locatorType: xpath:
+19/06/2022 04:04:05 PM- TestStatus- INFO: ### VERIFICATION SUCCESSFUL :: + login was  successful:
+19/06/2022 04:04:05 PM- TestStatus- INFO: test_validation ### TEST SUCCESSFUL:
+19/06/2022 04:09:17 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 04:09:17 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 04:09:17 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 04:09:17 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+19/06/2022 04:09:17 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 04:09:17 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+19/06/2022 04:09:17 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+19/06/2022 04:09:19 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+19/06/2022 04:09:19 PM- LoginPage- INFO: Element list FOUND with locator: //div[contains(text(), 'Invalid User Name Or Password.')] and locatorType: xpath:
+19/06/2022 04:09:19 PM- LoginPage- INFO: Element present with locator: //div[contains(text(), 'Invalid User Name Or Password.')] locatorType: xpath:
+19/06/2022 04:09:19 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 04:09:19 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 04:09:19 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 04:09:20 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+19/06/2022 04:09:20 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 04:09:20 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+19/06/2022 04:09:20 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+19/06/2022 04:09:22 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+19/06/2022 04:09:22 PM- LoginPage- INFO: Element list FOUND with locator: //div[contains(text(), 'Invalid User Name Or Password.')] and locatorType: xpath:
+19/06/2022 04:09:22 PM- LoginPage- INFO: Element present with locator: //div[contains(text(), 'Invalid User Name Or Password.')] locatorType: xpath:
+19/06/2022 04:09:22 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 04:09:22 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 04:09:22 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 04:09:22 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+19/06/2022 04:09:22 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 04:09:22 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+19/06/2022 04:09:22 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+19/06/2022 04:09:24 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+19/06/2022 04:09:24 PM- LoginPage- INFO: Element list FOUND with locator: //div[contains(text(), 'Invalid User Name Or Password.')] and locatorType: xpath:
+19/06/2022 04:09:24 PM- LoginPage- INFO: Element present with locator: //div[contains(text(), 'Invalid User Name Or Password.')] locatorType: xpath:
+19/06/2022 04:09:24 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 04:09:24 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 04:09:24 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 04:09:24 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+19/06/2022 04:09:24 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 04:09:24 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+19/06/2022 04:09:24 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+19/06/2022 04:09:29 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+19/06/2022 04:09:29 PM- Util- INFO: Actual Text From Application Web UI --> :: IvyDMS:
+19/06/2022 04:09:29 PM- Util- INFO: Expected Text From Application Web UI --> :: IvyDMS:
+19/06/2022 04:09:29 PM- Util- INFO: ### VERIFICATION CONTAINS !!!:
+19/06/2022 04:09:29 PM- TestStatus- INFO: ### VERIFICATION SUCCESSFUL :: + Title is incorrect:
+19/06/2022 04:09:29 PM- LoginPage- INFO: Element list FOUND with locator: //h2[contains(text(),'Welcome To Cloud DMS')] and locatorType: xpath:
+19/06/2022 04:09:29 PM- LoginPage- INFO: Element present with locator: //h2[contains(text(),'Welcome To Cloud DMS')] locatorType: xpath:
+19/06/2022 04:09:29 PM- TestStatus- INFO: ### VERIFICATION SUCCESSFUL :: + login was  successful:
+19/06/2022 04:09:29 PM- TestStatus- INFO: test_validation ### TEST SUCCESSFUL:
+19/06/2022 05:13:46 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 05:13:46 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 05:13:46 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 05:13:46 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+19/06/2022 05:13:46 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 05:13:46 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+19/06/2022 05:13:46 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+19/06/2022 05:13:52 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+19/06/2022 05:13:52 PM- LoginPage- INFO: Element found with locator: prof-anchor and  locatorType: id:
+19/06/2022 05:13:53 PM- LoginPage- INFO: Cannot click on the element with locator: prof-anchor locatorType: id:
+19/06/2022 05:13:53 PM- LoginPage- INFO: Element found with locator: a[title='Logout'] and  locatorType: css:
+19/06/2022 05:13:53 PM- LoginPage- INFO: Cannot click on the element with locator: a[title='Logout'] locatorType: css:
+19/06/2022 05:13:56 PM- LoginPage- INFO: Element not found with locator: UserName and locatorType: id:
+19/06/2022 05:13:56 PM- LoginPage- ERROR: Exception Caught: Traceback (most recent call last):
+  File "/home/thileepan/Documents/workspace_python/Product2/base/selenium_driver.py", line 67, in getElement
+    element = self.driver.find_element(byType, locator)
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: [id="UserName"]
+
+:
+19/06/2022 05:13:56 PM- LoginPage- ERROR:   File "/home/thileepan/api/bin/py.test", line 10, in <module>
+    sys.exit(main())
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/config/__init__.py", line 74, in main
+    return config.hook.pytest_cmdline_main(config=config)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 250, in pytest_cmdline_main
+    return wrap_session(config, _main)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 213, in wrap_session
+    session.exitstatus = doit(config, session) or 0
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 257, in _main
+    config.hook.pytest_runtestloop(session=session)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 278, in pytest_runtestloop
+    item.config.hook.pytest_runtest_protocol(item=item, nextitem=nextitem)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 72, in pytest_runtest_protocol
+    runtestprotocol(item, nextitem=nextitem)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 87, in runtestprotocol
+    reports.append(call_and_report(item, "call", log))
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 167, in call_and_report
+    call = call_runtest_hook(item, when, **kwds)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 192, in call_runtest_hook
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 220, in from_call
+    result = func()
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 192, in <lambda>
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 117, in pytest_runtest_call
+    item.runtest()
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/unittest.py", line 200, in runtest
+    self._testcase(result=self)
+  File "/usr/local/lib/python3.5/unittest/case.py", line 648, in __call__
+    return self.run(*args, **kwds)
+  File "/usr/local/lib/python3.5/unittest/case.py", line 600, in run
+    testMethod()
+  File "/home/thileepan/api/lib/python3.5/site-packages/ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/thileepan/Documents/workspace_python/Product2/tests/home/login_test_csv_data.py", line 36, in test_invalidLogin
+    self.lp.login(Username, Passowrd)
+  File "/home/thileepan/Documents/workspace_python/Product2/pages/home/login_page.py", line 33, in login
+    self.clearFields()
+  File "/home/thileepan/Documents/workspace_python/Product2/pages/home/login_page.py", line 47, in clearFields
+    userField = self.getElement(locator=self._username)
+  File "/home/thileepan/Documents/workspace_python/Product2/base/selenium_driver.py", line 74, in getElement
+    self.log.error("".join(traceback.format_stack()))
+:
+19/06/2022 05:13:56 PM- LoginPage- INFO: Element found with locator: prof-anchor and  locatorType: id:
+19/06/2022 05:13:57 PM- LoginPage- INFO: Clicked on element with locator: prof-anchor locatorType: id:
+19/06/2022 05:13:57 PM- LoginPage- INFO: Element found with locator: a[title='Logout'] and  locatorType: css:
+19/06/2022 05:14:00 PM- LoginPage- INFO: Clicked on element with locator: a[title='Logout'] locatorType: css:
+19/06/2022 05:14:01 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 05:14:01 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 05:14:01 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 05:14:01 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+19/06/2022 05:14:01 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 05:14:01 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+19/06/2022 05:14:01 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+19/06/2022 05:14:05 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+19/06/2022 05:14:05 PM- LoginPage- INFO: Element list FOUND with locator: //div[contains(text(), 'Invalid User Name Or Password.')] and locatorType: xpath:
+19/06/2022 05:14:05 PM- LoginPage- INFO: Element present with locator: //div[contains(text(), 'Invalid User Name Or Password.')] locatorType: xpath:
+19/06/2022 05:14:08 PM- LoginPage- INFO: Element not found with locator: prof-anchor and locatorType: id:
+19/06/2022 05:14:08 PM- LoginPage- ERROR: Exception Caught: Traceback (most recent call last):
+  File "/home/thileepan/Documents/workspace_python/Product2/base/selenium_driver.py", line 67, in getElement
+    element = self.driver.find_element(byType, locator)
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: [id="prof-anchor"]
+
+:
+19/06/2022 05:14:08 PM- LoginPage- ERROR:   File "/home/thileepan/api/bin/py.test", line 10, in <module>
+    sys.exit(main())
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/config/__init__.py", line 74, in main
+    return config.hook.pytest_cmdline_main(config=config)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 250, in pytest_cmdline_main
+    return wrap_session(config, _main)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 213, in wrap_session
+    session.exitstatus = doit(config, session) or 0
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 257, in _main
+    config.hook.pytest_runtestloop(session=session)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 278, in pytest_runtestloop
+    item.config.hook.pytest_runtest_protocol(item=item, nextitem=nextitem)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 72, in pytest_runtest_protocol
+    runtestprotocol(item, nextitem=nextitem)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 87, in runtestprotocol
+    reports.append(call_and_report(item, "call", log))
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 167, in call_and_report
+    call = call_runtest_hook(item, when, **kwds)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 192, in call_runtest_hook
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 220, in from_call
+    result = func()
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 192, in <lambda>
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 117, in pytest_runtest_call
+    item.runtest()
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/unittest.py", line 200, in runtest
+    self._testcase(result=self)
+  File "/usr/local/lib/python3.5/unittest/case.py", line 648, in __call__
+    return self.run(*args, **kwds)
+  File "/usr/local/lib/python3.5/unittest/case.py", line 600, in run
+    testMethod()
+  File "/home/thileepan/api/lib/python3.5/site-packages/ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/thileepan/Documents/workspace_python/Product2/tests/home/login_test_csv_data.py", line 35, in test_invalidLogin
+    self.lp.logout()
+  File "/home/thileepan/Documents/workspace_python/Product2/pages/home/login_page.py", line 56, in logout
+    self.elementClick(self._logout_icon)
+  File "/home/thileepan/Documents/workspace_python/Product2/base/selenium_driver.py", line 99, in elementClick
+    element = self.getElement(locator, locatorType)
+  File "/home/thileepan/Documents/workspace_python/Product2/base/selenium_driver.py", line 74, in getElement
+    self.log.error("".join(traceback.format_stack()))
+:
+19/06/2022 05:14:08 PM- LoginPage- INFO: Cannot click on the element with locator: prof-anchor locatorType: id:
+19/06/2022 05:14:11 PM- LoginPage- INFO: Element not found with locator: a[title='Logout'] and locatorType: css:
+19/06/2022 05:14:11 PM- LoginPage- ERROR: Exception Caught: Traceback (most recent call last):
+  File "/home/thileepan/Documents/workspace_python/Product2/base/selenium_driver.py", line 67, in getElement
+    element = self.driver.find_element(byType, locator)
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: a[title='Logout']
+
+:
+19/06/2022 05:14:11 PM- LoginPage- ERROR:   File "/home/thileepan/api/bin/py.test", line 10, in <module>
+    sys.exit(main())
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/config/__init__.py", line 74, in main
+    return config.hook.pytest_cmdline_main(config=config)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 250, in pytest_cmdline_main
+    return wrap_session(config, _main)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 213, in wrap_session
+    session.exitstatus = doit(config, session) or 0
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 257, in _main
+    config.hook.pytest_runtestloop(session=session)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 278, in pytest_runtestloop
+    item.config.hook.pytest_runtest_protocol(item=item, nextitem=nextitem)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 72, in pytest_runtest_protocol
+    runtestprotocol(item, nextitem=nextitem)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 87, in runtestprotocol
+    reports.append(call_and_report(item, "call", log))
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 167, in call_and_report
+    call = call_runtest_hook(item, when, **kwds)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 192, in call_runtest_hook
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 220, in from_call
+    result = func()
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 192, in <lambda>
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 117, in pytest_runtest_call
+    item.runtest()
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/unittest.py", line 200, in runtest
+    self._testcase(result=self)
+  File "/usr/local/lib/python3.5/unittest/case.py", line 648, in __call__
+    return self.run(*args, **kwds)
+  File "/usr/local/lib/python3.5/unittest/case.py", line 600, in run
+    testMethod()
+  File "/home/thileepan/api/lib/python3.5/site-packages/ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/thileepan/Documents/workspace_python/Product2/tests/home/login_test_csv_data.py", line 35, in test_invalidLogin
+    self.lp.logout()
+  File "/home/thileepan/Documents/workspace_python/Product2/pages/home/login_page.py", line 57, in logout
+    self.elementClick(self._logout,locatorType="css")
+  File "/home/thileepan/Documents/workspace_python/Product2/base/selenium_driver.py", line 99, in elementClick
+    element = self.getElement(locator, locatorType)
+  File "/home/thileepan/Documents/workspace_python/Product2/base/selenium_driver.py", line 74, in getElement
+    self.log.error("".join(traceback.format_stack()))
+:
+19/06/2022 05:14:11 PM- LoginPage- INFO: Cannot click on the element with locator: a[title='Logout'] locatorType: css:
+19/06/2022 05:14:11 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 05:14:11 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 05:14:11 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 05:14:11 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+19/06/2022 05:14:11 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 05:14:11 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+19/06/2022 05:14:11 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+19/06/2022 05:14:17 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+19/06/2022 05:14:17 PM- LoginPage- INFO: Element list FOUND with locator: //div[contains(text(), 'Invalid User Name Or Password.')] and locatorType: xpath:
+19/06/2022 05:14:17 PM- LoginPage- INFO: Element present with locator: //div[contains(text(), 'Invalid User Name Or Password.')] locatorType: xpath:
+19/06/2022 05:14:17 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 05:14:17 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 05:14:17 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 05:14:17 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+19/06/2022 05:14:17 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 05:14:17 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+19/06/2022 05:14:17 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+19/06/2022 05:14:18 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+19/06/2022 05:33:47 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 05:33:47 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 05:33:47 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 05:33:48 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+19/06/2022 05:33:48 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 05:33:48 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+19/06/2022 05:33:48 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+19/06/2022 05:33:59 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+19/06/2022 05:33:59 PM- LoginPage- INFO: Element found with locator: prof-anchor and  locatorType: id:
+19/06/2022 05:33:59 PM- LoginPage- INFO: Cannot click on the element with locator: prof-anchor locatorType: id:
+19/06/2022 05:33:59 PM- LoginPage- INFO: Element found with locator: a[title='Logout'] and  locatorType: css:
+19/06/2022 05:33:59 PM- LoginPage- INFO: Cannot click on the element with locator: a[title='Logout'] locatorType: css:
+19/06/2022 05:34:02 PM- LoginPage- INFO: Element not found with locator: UserName and locatorType: id:
+19/06/2022 05:34:02 PM- LoginPage- ERROR: Exception Caught: Traceback (most recent call last):
+  File "/home/thileepan/Documents/workspace_python/Product2/base/selenium_driver.py", line 67, in getElement
+    element = self.driver.find_element(byType, locator)
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: [id="UserName"]
+
+:
+19/06/2022 05:34:02 PM- LoginPage- ERROR:   File "/home/thileepan/api/bin/py.test", line 10, in <module>
+    sys.exit(main())
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/config/__init__.py", line 74, in main
+    return config.hook.pytest_cmdline_main(config=config)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 250, in pytest_cmdline_main
+    return wrap_session(config, _main)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 213, in wrap_session
+    session.exitstatus = doit(config, session) or 0
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 257, in _main
+    config.hook.pytest_runtestloop(session=session)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 278, in pytest_runtestloop
+    item.config.hook.pytest_runtest_protocol(item=item, nextitem=nextitem)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 72, in pytest_runtest_protocol
+    runtestprotocol(item, nextitem=nextitem)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 87, in runtestprotocol
+    reports.append(call_and_report(item, "call", log))
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 167, in call_and_report
+    call = call_runtest_hook(item, when, **kwds)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 192, in call_runtest_hook
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 220, in from_call
+    result = func()
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 192, in <lambda>
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 117, in pytest_runtest_call
+    item.runtest()
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/unittest.py", line 200, in runtest
+    self._testcase(result=self)
+  File "/usr/local/lib/python3.5/unittest/case.py", line 648, in __call__
+    return self.run(*args, **kwds)
+  File "/usr/local/lib/python3.5/unittest/case.py", line 600, in run
+    testMethod()
+  File "/home/thileepan/api/lib/python3.5/site-packages/ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/thileepan/Documents/workspace_python/Product2/tests/home/login_test_csv_data.py", line 36, in test_invalidLogin
+    self.lp.login(Username, Passowrd)
+  File "/home/thileepan/Documents/workspace_python/Product2/pages/home/login_page.py", line 33, in login
+    self.clearFields()
+  File "/home/thileepan/Documents/workspace_python/Product2/pages/home/login_page.py", line 47, in clearFields
+    userField = self.getElement(locator=self._username)
+  File "/home/thileepan/Documents/workspace_python/Product2/base/selenium_driver.py", line 74, in getElement
+    self.log.error("".join(traceback.format_stack()))
+:
+19/06/2022 05:34:02 PM- LoginPage- INFO: Element found with locator: prof-anchor and  locatorType: id:
+19/06/2022 05:34:03 PM- LoginPage- INFO: Clicked on element with locator: prof-anchor locatorType: id:
+19/06/2022 05:34:03 PM- LoginPage- INFO: Element found with locator: a[title='Logout'] and  locatorType: css:
+19/06/2022 05:34:05 PM- LoginPage- INFO: Clicked on element with locator: a[title='Logout'] locatorType: css:
+19/06/2022 05:34:05 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 05:34:06 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 05:34:06 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 05:34:06 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+19/06/2022 05:34:06 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 05:34:06 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+19/06/2022 05:34:06 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+19/06/2022 05:34:08 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+19/06/2022 05:34:08 PM- LoginPage- INFO: Element list FOUND with locator: //div[contains(text(), 'Invalid User Name Or Password.')] and locatorType: xpath:
+19/06/2022 05:34:08 PM- LoginPage- INFO: Element present with locator: //div[contains(text(), 'Invalid User Name Or Password.')] locatorType: xpath:
+19/06/2022 05:34:11 PM- LoginPage- INFO: Element not found with locator: prof-anchor and locatorType: id:
+19/06/2022 05:34:11 PM- LoginPage- ERROR: Exception Caught: Traceback (most recent call last):
+  File "/home/thileepan/Documents/workspace_python/Product2/base/selenium_driver.py", line 67, in getElement
+    element = self.driver.find_element(byType, locator)
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: [id="prof-anchor"]
+
+:
+19/06/2022 05:34:11 PM- LoginPage- ERROR:   File "/home/thileepan/api/bin/py.test", line 10, in <module>
+    sys.exit(main())
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/config/__init__.py", line 74, in main
+    return config.hook.pytest_cmdline_main(config=config)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 250, in pytest_cmdline_main
+    return wrap_session(config, _main)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 213, in wrap_session
+    session.exitstatus = doit(config, session) or 0
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 257, in _main
+    config.hook.pytest_runtestloop(session=session)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 278, in pytest_runtestloop
+    item.config.hook.pytest_runtest_protocol(item=item, nextitem=nextitem)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 72, in pytest_runtest_protocol
+    runtestprotocol(item, nextitem=nextitem)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 87, in runtestprotocol
+    reports.append(call_and_report(item, "call", log))
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 167, in call_and_report
+    call = call_runtest_hook(item, when, **kwds)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 192, in call_runtest_hook
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 220, in from_call
+    result = func()
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 192, in <lambda>
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 117, in pytest_runtest_call
+    item.runtest()
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/unittest.py", line 200, in runtest
+    self._testcase(result=self)
+  File "/usr/local/lib/python3.5/unittest/case.py", line 648, in __call__
+    return self.run(*args, **kwds)
+  File "/usr/local/lib/python3.5/unittest/case.py", line 600, in run
+    testMethod()
+  File "/home/thileepan/api/lib/python3.5/site-packages/ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/thileepan/Documents/workspace_python/Product2/tests/home/login_test_csv_data.py", line 35, in test_invalidLogin
+    self.lp.logout()
+  File "/home/thileepan/Documents/workspace_python/Product2/pages/home/login_page.py", line 56, in logout
+    self.elementClick(self._logout_icon)
+  File "/home/thileepan/Documents/workspace_python/Product2/base/selenium_driver.py", line 99, in elementClick
+    element = self.getElement(locator, locatorType)
+  File "/home/thileepan/Documents/workspace_python/Product2/base/selenium_driver.py", line 74, in getElement
+    self.log.error("".join(traceback.format_stack()))
+:
+19/06/2022 05:34:11 PM- LoginPage- INFO: Cannot click on the element with locator: prof-anchor locatorType: id:
+19/06/2022 05:34:14 PM- LoginPage- INFO: Element not found with locator: a[title='Logout'] and locatorType: css:
+19/06/2022 05:34:14 PM- LoginPage- ERROR: Exception Caught: Traceback (most recent call last):
+  File "/home/thileepan/Documents/workspace_python/Product2/base/selenium_driver.py", line 67, in getElement
+    element = self.driver.find_element(byType, locator)
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: a[title='Logout']
+
+:
+19/06/2022 05:34:14 PM- LoginPage- ERROR:   File "/home/thileepan/api/bin/py.test", line 10, in <module>
+    sys.exit(main())
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/config/__init__.py", line 74, in main
+    return config.hook.pytest_cmdline_main(config=config)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 250, in pytest_cmdline_main
+    return wrap_session(config, _main)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 213, in wrap_session
+    session.exitstatus = doit(config, session) or 0
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 257, in _main
+    config.hook.pytest_runtestloop(session=session)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 278, in pytest_runtestloop
+    item.config.hook.pytest_runtest_protocol(item=item, nextitem=nextitem)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 72, in pytest_runtest_protocol
+    runtestprotocol(item, nextitem=nextitem)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 87, in runtestprotocol
+    reports.append(call_and_report(item, "call", log))
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 167, in call_and_report
+    call = call_runtest_hook(item, when, **kwds)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 192, in call_runtest_hook
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 220, in from_call
+    result = func()
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 192, in <lambda>
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 117, in pytest_runtest_call
+    item.runtest()
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/unittest.py", line 200, in runtest
+    self._testcase(result=self)
+  File "/usr/local/lib/python3.5/unittest/case.py", line 648, in __call__
+    return self.run(*args, **kwds)
+  File "/usr/local/lib/python3.5/unittest/case.py", line 600, in run
+    testMethod()
+  File "/home/thileepan/api/lib/python3.5/site-packages/ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/thileepan/Documents/workspace_python/Product2/tests/home/login_test_csv_data.py", line 35, in test_invalidLogin
+    self.lp.logout()
+  File "/home/thileepan/Documents/workspace_python/Product2/pages/home/login_page.py", line 57, in logout
+    self.elementClick(self._logout,locatorType="css")
+  File "/home/thileepan/Documents/workspace_python/Product2/base/selenium_driver.py", line 99, in elementClick
+    element = self.getElement(locator, locatorType)
+  File "/home/thileepan/Documents/workspace_python/Product2/base/selenium_driver.py", line 74, in getElement
+    self.log.error("".join(traceback.format_stack()))
+:
+19/06/2022 05:34:14 PM- LoginPage- INFO: Cannot click on the element with locator: a[title='Logout'] locatorType: css:
+19/06/2022 05:34:14 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 05:34:14 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 05:34:14 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 05:34:14 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+19/06/2022 05:34:14 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 05:34:15 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+19/06/2022 05:34:15 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+19/06/2022 05:34:16 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+19/06/2022 05:34:17 PM- LoginPage- INFO: Element list FOUND with locator: //div[contains(text(), 'Invalid User Name Or Password.')] and locatorType: xpath:
+19/06/2022 05:34:17 PM- LoginPage- INFO: Element present with locator: //div[contains(text(), 'Invalid User Name Or Password.')] locatorType: xpath:
+19/06/2022 05:34:17 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 05:34:17 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 05:34:17 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 05:34:17 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+19/06/2022 05:34:17 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 05:34:17 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+19/06/2022 05:34:17 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+19/06/2022 05:34:22 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+19/06/2022 05:34:22 PM- Util- INFO: Actual Text From Application Web UI --> :: IvyDMS:
+19/06/2022 05:34:22 PM- Util- INFO: Expected Text From Application Web UI --> :: IvyDMS:
+19/06/2022 05:34:22 PM- Util- INFO: ### VERIFICATION CONTAINS !!!:
+19/06/2022 05:34:22 PM- TestStatus- INFO: ### VERIFICATION SUCCESSFUL :: + Title is incorrect:
+19/06/2022 05:34:22 PM- LoginPage- INFO: Element list FOUND with locator: //h2[contains(text(),'Welcome To Cloud DMS')] and locatorType: xpath:
+19/06/2022 05:34:22 PM- LoginPage- INFO: Element present with locator: //h2[contains(text(),'Welcome To Cloud DMS')] locatorType: xpath:
+19/06/2022 05:34:22 PM- TestStatus- INFO: ### VERIFICATION SUCCESSFUL :: + login was  successful:
+19/06/2022 05:34:22 PM- TestStatus- INFO: test_validation ### TEST SUCCESSFUL:
+19/06/2022 05:50:36 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 05:50:36 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 05:50:36 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 05:50:36 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+19/06/2022 05:50:36 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 05:50:36 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+19/06/2022 05:50:36 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+19/06/2022 05:50:41 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+19/06/2022 05:50:41 PM- LoginPage- INFO: Element found with locator: prof-anchor and  locatorType: id:
+19/06/2022 05:50:41 PM- LoginPage- INFO: Clicked on element with locator: prof-anchor locatorType: id:
+19/06/2022 05:50:41 PM- LoginPage- INFO: Element found with locator: a[title='Logout'] and  locatorType: css:
+19/06/2022 05:50:42 PM- LoginPage- INFO: Clicked on element with locator: a[title='Logout'] locatorType: css:
+19/06/2022 05:50:42 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 05:50:42 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 05:50:42 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 05:50:42 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+19/06/2022 05:50:42 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 05:50:43 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+19/06/2022 05:50:43 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+19/06/2022 05:50:44 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+19/06/2022 05:50:44 PM- LoginPage- INFO: Element list FOUND with locator: //div[contains(text(), 'Invalid User Name Or Password.')] and locatorType: xpath:
+19/06/2022 05:50:44 PM- LoginPage- INFO: Element present with locator: //div[contains(text(), 'Invalid User Name Or Password.')] locatorType: xpath:
+19/06/2022 05:50:47 PM- LoginPage- INFO: Element not found with locator: prof-anchor and locatorType: id:
+19/06/2022 05:50:47 PM- LoginPage- ERROR: Exception Caught: Traceback (most recent call last):
+  File "/home/thileepan/Documents/workspace_python/Product2/base/selenium_driver.py", line 67, in getElement
+    element = self.driver.find_element(byType, locator)
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="prof-anchor"]"}
+  (Session info: chrome=94.0.4606.81)
+
+:
+19/06/2022 05:50:47 PM- LoginPage- ERROR:   File "/home/thileepan/api/bin/py.test", line 10, in <module>
+    sys.exit(main())
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/config/__init__.py", line 74, in main
+    return config.hook.pytest_cmdline_main(config=config)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 250, in pytest_cmdline_main
+    return wrap_session(config, _main)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 213, in wrap_session
+    session.exitstatus = doit(config, session) or 0
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 257, in _main
+    config.hook.pytest_runtestloop(session=session)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 278, in pytest_runtestloop
+    item.config.hook.pytest_runtest_protocol(item=item, nextitem=nextitem)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 72, in pytest_runtest_protocol
+    runtestprotocol(item, nextitem=nextitem)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 87, in runtestprotocol
+    reports.append(call_and_report(item, "call", log))
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 167, in call_and_report
+    call = call_runtest_hook(item, when, **kwds)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 192, in call_runtest_hook
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 220, in from_call
+    result = func()
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 192, in <lambda>
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 117, in pytest_runtest_call
+    item.runtest()
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/unittest.py", line 200, in runtest
+    self._testcase(result=self)
+  File "/usr/local/lib/python3.5/unittest/case.py", line 648, in __call__
+    return self.run(*args, **kwds)
+  File "/usr/local/lib/python3.5/unittest/case.py", line 600, in run
+    testMethod()
+  File "/home/thileepan/api/lib/python3.5/site-packages/ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/thileepan/Documents/workspace_python/Product2/tests/home/login_test_csv_data.py", line 35, in test_invalidLogin
+    self.lp.logout()
+  File "/home/thileepan/Documents/workspace_python/Product2/pages/home/login_page.py", line 56, in logout
+    self.elementClick(self._logout_icon)
+  File "/home/thileepan/Documents/workspace_python/Product2/base/selenium_driver.py", line 99, in elementClick
+    element = self.getElement(locator, locatorType)
+  File "/home/thileepan/Documents/workspace_python/Product2/base/selenium_driver.py", line 74, in getElement
+    self.log.error("".join(traceback.format_stack()))
+:
+19/06/2022 05:50:47 PM- LoginPage- INFO: Cannot click on the element with locator: prof-anchor locatorType: id:
+19/06/2022 05:50:50 PM- LoginPage- INFO: Element not found with locator: a[title='Logout'] and locatorType: css:
+19/06/2022 05:50:50 PM- LoginPage- ERROR: Exception Caught: Traceback (most recent call last):
+  File "/home/thileepan/Documents/workspace_python/Product2/base/selenium_driver.py", line 67, in getElement
+    element = self.driver.find_element(byType, locator)
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"a[title='Logout']"}
+  (Session info: chrome=94.0.4606.81)
+
+:
+19/06/2022 05:50:50 PM- LoginPage- ERROR:   File "/home/thileepan/api/bin/py.test", line 10, in <module>
+    sys.exit(main())
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/config/__init__.py", line 74, in main
+    return config.hook.pytest_cmdline_main(config=config)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 250, in pytest_cmdline_main
+    return wrap_session(config, _main)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 213, in wrap_session
+    session.exitstatus = doit(config, session) or 0
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 257, in _main
+    config.hook.pytest_runtestloop(session=session)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 278, in pytest_runtestloop
+    item.config.hook.pytest_runtest_protocol(item=item, nextitem=nextitem)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 72, in pytest_runtest_protocol
+    runtestprotocol(item, nextitem=nextitem)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 87, in runtestprotocol
+    reports.append(call_and_report(item, "call", log))
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 167, in call_and_report
+    call = call_runtest_hook(item, when, **kwds)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 192, in call_runtest_hook
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 220, in from_call
+    result = func()
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 192, in <lambda>
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 117, in pytest_runtest_call
+    item.runtest()
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/unittest.py", line 200, in runtest
+    self._testcase(result=self)
+  File "/usr/local/lib/python3.5/unittest/case.py", line 648, in __call__
+    return self.run(*args, **kwds)
+  File "/usr/local/lib/python3.5/unittest/case.py", line 600, in run
+    testMethod()
+  File "/home/thileepan/api/lib/python3.5/site-packages/ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/thileepan/Documents/workspace_python/Product2/tests/home/login_test_csv_data.py", line 35, in test_invalidLogin
+    self.lp.logout()
+  File "/home/thileepan/Documents/workspace_python/Product2/pages/home/login_page.py", line 57, in logout
+    self.elementClick(self._logout,locatorType="css")
+  File "/home/thileepan/Documents/workspace_python/Product2/base/selenium_driver.py", line 99, in elementClick
+    element = self.getElement(locator, locatorType)
+  File "/home/thileepan/Documents/workspace_python/Product2/base/selenium_driver.py", line 74, in getElement
+    self.log.error("".join(traceback.format_stack()))
+:
+19/06/2022 05:50:50 PM- LoginPage- INFO: Cannot click on the element with locator: a[title='Logout'] locatorType: css:
+19/06/2022 05:50:50 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 05:50:50 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 05:50:50 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 05:50:50 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+19/06/2022 05:50:50 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 05:50:51 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+19/06/2022 05:50:51 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+19/06/2022 05:50:51 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+19/06/2022 05:50:52 PM- LoginPage- INFO: Element list FOUND with locator: //div[contains(text(), 'Invalid User Name Or Password.')] and locatorType: xpath:
+19/06/2022 05:50:52 PM- LoginPage- INFO: Element present with locator: //div[contains(text(), 'Invalid User Name Or Password.')] locatorType: xpath:
+19/06/2022 05:50:55 PM- LoginPage- INFO: Element not found with locator: prof-anchor and locatorType: id:
+19/06/2022 05:50:55 PM- LoginPage- ERROR: Exception Caught: Traceback (most recent call last):
+  File "/home/thileepan/Documents/workspace_python/Product2/base/selenium_driver.py", line 67, in getElement
+    element = self.driver.find_element(byType, locator)
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="prof-anchor"]"}
+  (Session info: chrome=94.0.4606.81)
+
+:
+19/06/2022 05:50:55 PM- LoginPage- ERROR:   File "/home/thileepan/api/bin/py.test", line 10, in <module>
+    sys.exit(main())
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/config/__init__.py", line 74, in main
+    return config.hook.pytest_cmdline_main(config=config)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 250, in pytest_cmdline_main
+    return wrap_session(config, _main)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 213, in wrap_session
+    session.exitstatus = doit(config, session) or 0
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 257, in _main
+    config.hook.pytest_runtestloop(session=session)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 278, in pytest_runtestloop
+    item.config.hook.pytest_runtest_protocol(item=item, nextitem=nextitem)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 72, in pytest_runtest_protocol
+    runtestprotocol(item, nextitem=nextitem)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 87, in runtestprotocol
+    reports.append(call_and_report(item, "call", log))
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 167, in call_and_report
+    call = call_runtest_hook(item, when, **kwds)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 192, in call_runtest_hook
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 220, in from_call
+    result = func()
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 192, in <lambda>
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 117, in pytest_runtest_call
+    item.runtest()
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/unittest.py", line 200, in runtest
+    self._testcase(result=self)
+  File "/usr/local/lib/python3.5/unittest/case.py", line 648, in __call__
+    return self.run(*args, **kwds)
+  File "/usr/local/lib/python3.5/unittest/case.py", line 600, in run
+    testMethod()
+  File "/home/thileepan/api/lib/python3.5/site-packages/ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/thileepan/Documents/workspace_python/Product2/tests/home/login_test_csv_data.py", line 35, in test_invalidLogin
+    self.lp.logout()
+  File "/home/thileepan/Documents/workspace_python/Product2/pages/home/login_page.py", line 56, in logout
+    self.elementClick(self._logout_icon)
+  File "/home/thileepan/Documents/workspace_python/Product2/base/selenium_driver.py", line 99, in elementClick
+    element = self.getElement(locator, locatorType)
+  File "/home/thileepan/Documents/workspace_python/Product2/base/selenium_driver.py", line 74, in getElement
+    self.log.error("".join(traceback.format_stack()))
+:
+19/06/2022 05:50:55 PM- LoginPage- INFO: Cannot click on the element with locator: prof-anchor locatorType: id:
+19/06/2022 05:50:58 PM- LoginPage- INFO: Element not found with locator: a[title='Logout'] and locatorType: css:
+19/06/2022 05:50:58 PM- LoginPage- ERROR: Exception Caught: Traceback (most recent call last):
+  File "/home/thileepan/Documents/workspace_python/Product2/base/selenium_driver.py", line 67, in getElement
+    element = self.driver.find_element(byType, locator)
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/thileepan/api/lib/python3.5/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"a[title='Logout']"}
+  (Session info: chrome=94.0.4606.81)
+
+:
+19/06/2022 05:50:58 PM- LoginPage- ERROR:   File "/home/thileepan/api/bin/py.test", line 10, in <module>
+    sys.exit(main())
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/config/__init__.py", line 74, in main
+    return config.hook.pytest_cmdline_main(config=config)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 250, in pytest_cmdline_main
+    return wrap_session(config, _main)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 213, in wrap_session
+    session.exitstatus = doit(config, session) or 0
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 257, in _main
+    config.hook.pytest_runtestloop(session=session)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/main.py", line 278, in pytest_runtestloop
+    item.config.hook.pytest_runtest_protocol(item=item, nextitem=nextitem)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 72, in pytest_runtest_protocol
+    runtestprotocol(item, nextitem=nextitem)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 87, in runtestprotocol
+    reports.append(call_and_report(item, "call", log))
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 167, in call_and_report
+    call = call_runtest_hook(item, when, **kwds)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 192, in call_runtest_hook
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 220, in from_call
+    result = func()
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 192, in <lambda>
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/hooks.py", line 289, in __call__
+    return self._hookexec(self, self.get_hookimpls(), kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 87, in _hookexec
+    return self._inner_hookexec(hook, methods, kwargs)
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/manager.py", line 81, in <lambda>
+    firstresult=hook.spec.opts.get("firstresult") if hook.spec else False,
+  File "/home/thileepan/api/lib/python3.5/site-packages/pluggy/callers.py", line 187, in _multicall
+    res = hook_impl.function(*args)
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/runner.py", line 117, in pytest_runtest_call
+    item.runtest()
+  File "/home/thileepan/api/lib/python3.5/site-packages/_pytest/unittest.py", line 200, in runtest
+    self._testcase(result=self)
+  File "/usr/local/lib/python3.5/unittest/case.py", line 648, in __call__
+    return self.run(*args, **kwds)
+  File "/usr/local/lib/python3.5/unittest/case.py", line 600, in run
+    testMethod()
+  File "/home/thileepan/api/lib/python3.5/site-packages/ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/thileepan/Documents/workspace_python/Product2/tests/home/login_test_csv_data.py", line 35, in test_invalidLogin
+    self.lp.logout()
+  File "/home/thileepan/Documents/workspace_python/Product2/pages/home/login_page.py", line 57, in logout
+    self.elementClick(self._logout,locatorType="css")
+  File "/home/thileepan/Documents/workspace_python/Product2/base/selenium_driver.py", line 99, in elementClick
+    element = self.getElement(locator, locatorType)
+  File "/home/thileepan/Documents/workspace_python/Product2/base/selenium_driver.py", line 74, in getElement
+    self.log.error("".join(traceback.format_stack()))
+:
+19/06/2022 05:50:58 PM- LoginPage- INFO: Cannot click on the element with locator: a[title='Logout'] locatorType: css:
+19/06/2022 05:50:58 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 05:50:58 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 05:50:58 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 05:50:58 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+19/06/2022 05:50:58 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 05:50:58 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+19/06/2022 05:50:58 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+19/06/2022 05:50:59 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+19/06/2022 05:50:59 PM- LoginPage- INFO: Element list FOUND with locator: //div[contains(text(), 'Invalid User Name Or Password.')] and locatorType: xpath:
+19/06/2022 05:50:59 PM- LoginPage- INFO: Element present with locator: //div[contains(text(), 'Invalid User Name Or Password.')] locatorType: xpath:
+19/06/2022 05:50:59 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 05:51:00 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 05:51:00 PM- LoginPage- INFO: Element found with locator: UserName and  locatorType: id:
+19/06/2022 05:51:00 PM- LoginPage- INFO: Sent data on element with locator: UserName locatorType: id:
+19/06/2022 05:51:00 PM- LoginPage- INFO: Element found with locator: Password and  locatorType: id:
+19/06/2022 05:51:00 PM- LoginPage- INFO: Sent data on element with locator: Password locatorType: id:
+19/06/2022 05:51:00 PM- LoginPage- INFO: Element found with locator: Login and  locatorType: id:
+19/06/2022 05:51:03 PM- LoginPage- INFO: Clicked on element with locator: Login locatorType: id:
+19/06/2022 05:51:03 PM- Util- INFO: Actual Text From Application Web UI --> :: IvyDMS:
+19/06/2022 05:51:03 PM- Util- INFO: Expected Text From Application Web UI --> :: IvyDMS:
+19/06/2022 05:51:03 PM- Util- INFO: ### VERIFICATION CONTAINS !!!:
+19/06/2022 05:51:03 PM- TestStatus- INFO: ### VERIFICATION SUCCESSFUL :: + Title is incorrect:
+19/06/2022 05:51:03 PM- LoginPage- INFO: Element list FOUND with locator: //h2[contains(text(),'Welcome To Cloud DMS')] and locatorType: xpath:
+19/06/2022 05:51:03 PM- LoginPage- INFO: Element present with locator: //h2[contains(text(),'Welcome To Cloud DMS')] locatorType: xpath:
+19/06/2022 05:51:03 PM- TestStatus- INFO: ### VERIFICATION SUCCESSFUL :: + login was  successful:
+19/06/2022 05:51:03 PM- TestStatus- INFO: test_validation ### TEST SUCCESSFUL:
