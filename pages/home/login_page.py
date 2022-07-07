@@ -1,6 +1,7 @@
 import utilities.custom_logger as cl
 import logging
 from base.basepage import BasePage
+import time
 
 class LoginPage(BasePage):
 
@@ -33,6 +34,7 @@ class LoginPage(BasePage):
         self.clearFields()
         self.enterUserName(username)
         self.enterPassword(password)
+        time.sleep(5)
         self.clickLogin()
 
     def verifyLoginSuccessful(self):
