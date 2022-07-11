@@ -4282,3 +4282,135 @@ JavaScript error: https://product-coreapi-qa.ivydms.com/dmsweb/IvyDMSContent/js/
 (firefox:21489): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
 
 (firefox:21489): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1657175353421	geckodriver	INFO	Listening on 127.0.0.1:60159
+1657175354434	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile9lHUkX"
+1657175355426	Marionette	INFO	Enabled via --marionette
+
+(firefox:15542): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15542): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15542): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15542): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15542): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15542): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:15592): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:15592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:15592): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:15592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:15592): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:15592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1657175359016	Marionette	INFO	Listening on port 60152
+1657175359096	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://product-coreapi-qa.ivydms.com/dmsweb/bundles/js/jquery.js, line 2: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+JavaScript error: https://product-coreapi-qa.ivydms.com/dmsweb/IvyDMSContent/js/common.js?v=1.0.0.0, line 340: TypeError: $(...).collapse is not a function
+JavaScript error: https://product-coreapi-qa.ivydms.com/dmsweb/bundles/js/jquery.js, line 2: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+JavaScript error: https://product-coreapi-qa.ivydms.com/dmsweb/bundles/js/jquery.js, line 2: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+JavaScript error: https://product-coreapi-qa.ivydms.com/dmsweb/bundles/js/jquery.js, line 2: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+JavaScript error: https://product-coreapi-qa.ivydms.com/dmsweb/IvyDMSContent/js/common.js?v=1.0.0.0, line 340: TypeError: $(...).collapse is not a function
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+(firefox:15542): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15542): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15542): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15542): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15542): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15542): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15542): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15542): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15542): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15542): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15542): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15542): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15542): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15542): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1657532998233	geckodriver	INFO	Listening on 127.0.0.1:51775
+1657532999230	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileWiGlar"
+1657533001694	Marionette	INFO	Enabled via --marionette
+
+(firefox:3492): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3492): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3492): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3492): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3492): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3492): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3564): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3564): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3564): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3564): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3564): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3564): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1657533007454	Marionette	INFO	Listening on port 32839
+1657533007654	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://product-coreapi-qa.ivydms.com/dmsweb/bundles/js/jquery.js, line 2: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+JavaScript error: https://product-coreapi-qa.ivydms.com/dmsweb/IvyDMSContent/js/common.js?v=1.0.0.0, line 340: TypeError: $(...).collapse is not a function
+JavaScript error: https://product-coreapi-qa.ivydms.com/dmsweb/bundles/js/jquery.js, line 2: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+JavaScript error: https://product-coreapi-qa.ivydms.com/dmsweb/bundles/js/jquery.js, line 2: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+JavaScript error: https://product-coreapi-qa.ivydms.com/dmsweb/bundles/js/jquery.js, line 2: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+JavaScript error: https://product-coreapi-qa.ivydms.com/dmsweb/IvyDMSContent/js/common.js?v=1.0.0.0, line 340: TypeError: $(...).collapse is not a function
+
+(firefox:3492): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3492): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3492): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3492): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3492): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3492): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3492): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3492): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3492): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3492): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3492): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3492): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3492): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3492): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed

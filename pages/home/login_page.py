@@ -34,7 +34,7 @@ class LoginPage(BasePage):
         self.clearFields()
         self.enterUserName(username)
         self.enterPassword(password)
-        time.sleep(5)
+        time.sleep(10)
         self.clickLogin()
 
     def verifyLoginSuccessful(self):
